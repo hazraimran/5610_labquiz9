@@ -11,7 +11,7 @@ Fetch a random dog image from an external API (Dog CEO API) and display it in th
 5. Set the `dogImage` state variable to `data.message`, which contains the URL of the fetched dog image.
 6. Display the image in the JSX if `dogImage` has a value.
 
-### Output(Ramdom dog image)
+### Output(Random dog image)
 ![alt text](image/WX20241104-162526@2x.png)
 
 
